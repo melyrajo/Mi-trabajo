@@ -7,7 +7,7 @@ console.log ("el area del cuadrado es: ", rC)
 console.log ("----------02----------")
 console.log ("AREA DEL TRIANGULO")
 let B = 4
-let H = 5
+let H = 55
 let rT = (B * H) /2
 console.log ("el area del triángulo es: ", rT) 
 
